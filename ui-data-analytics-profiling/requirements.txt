@@ -1,0 +1,10 @@
+pandas
+matplotlib
+plotly
+sweetviz
+pandas-profiling
+numpy
+scipy
+altair
+jupyter
+notebook

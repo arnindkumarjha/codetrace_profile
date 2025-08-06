@@ -1,5 +1,0 @@
-pandas
-sweetviz
-plotly
-altair
-jupyter
